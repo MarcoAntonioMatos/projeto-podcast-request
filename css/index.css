@@ -1,0 +1,51 @@
+@import url(global/global.css);
+
+body{
+    background-color: #121725;
+    position: relative;
+    overflow: hidden;
+}
+
+.logo{
+    background-color: #121725;
+    height: 150px;
+    width: 100%;
+    position: relative;
+}
+
+.logo img{
+    position: absolute;
+    top: 60px;
+    left: 100px;
+}
+
+.img-corpo{
+    position: absolute;
+    left: 680px;
+    top: 85px;
+}
+
+.img-corpo img{
+    max-height: 450px;
+    min-width: 680px;
+}
+
+.conteudo{
+    position: absolute;
+    left: 100px;
+    top: 150px;
+    width: 800px;
+    height: 400px;
+    background-color: red;
+    z-index: 2;
+}
+
+.img-detalhe{
+    position: absolute;
+    top: 490px;
+    left: 1200px;
+}
+
+.img-detalhe img{
+
+}
