@@ -4,6 +4,7 @@ body{
     background-color: #121725;
     position: relative;
     overflow: hidden;
+    font-family: 'Chivo';
 }
 
 .logo{
@@ -33,7 +34,7 @@ body{
 .conteudo{
     position: absolute;
     left: 220px;
-    top: 180px;
+    top: 160px;
     width: 723px;
     height: 400px;
     background-color: #121725;
@@ -50,9 +51,11 @@ body{
 .conteudo h2{
     margin-top: 50px;
     margin-bottom: 20px;
-    font-size: 52px;
+    font-size: 50px;
     color: #54E6AF;
-    max-width: 500px;
+    max-width: 700px;
+    text-transform: uppercase;
+    font-weight: lighter;
 }
 
 .conteudo span{
@@ -61,13 +64,16 @@ body{
 
 .conteudo p{
     margin: 15px 0 35px 0;
-    max-width: 350px;
-    color: #2c344b;
+    max-width: 450px;
+    color: #c2cbe5;
+    font-size: 15px;
+    font-weight: lighter;
+    line-height: 1.5;
 }
 
 .img-detalhe{
     position: absolute;
-    top: 490px;
+    top: 470px;
     left: 1200px;
 }
 
@@ -99,9 +105,21 @@ body{
     padding: 10px 20px;
     border: none;
     border-radius: 20px;
-    background-color: #007bff;
-    color: #fff;
+    background-color: #54E6AF;
+    color: #121725;
     cursor: pointer;
+}
+
+
+.icons{
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.icons img{
+    max-width: 100px;
+    margin-right: 30px;
 }
 
 
