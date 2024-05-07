@@ -34,7 +34,7 @@ body{
 .conteudo{
     position: absolute;
     left: 220px;
-    top: 160px;
+    top: 135px;
     width: 723px;
     height: 400px;
     background-color: #121725;
@@ -84,6 +84,7 @@ body{
 
 .emailcheck input[type="email"]{
     width: 420px;
+    color: white;
 }
 
 .check{
@@ -108,6 +109,17 @@ body{
     background-color: #54E6AF;
     color: #121725;
     cursor: pointer;
+}
+
+.btn:hover{
+    background-color: #9ee4c9;
+}
+
+#error{
+    color: red;
+    position: relative;
+    left: 30px;
+    top: 5px;
 }
 
 
