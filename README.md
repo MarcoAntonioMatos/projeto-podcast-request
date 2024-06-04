@@ -20,7 +20,10 @@ Essa é uma solução do [Pod request access landing page challenge on Frontend 
 
 ### Screenshot
 
-![](./screenshot.jpg)
+[Screenshot](https://github.com/MarcoAntonioMatos/projeto-podcast-request/blob/main/assets/projeto.png)
+<div>
+  <img src="https://github.com/MarcoAntonioMatos/projeto-podcast-request/blob/main/assets/projeto.png" alt="imagem do site funcionando">
+</div>
 
 
 
