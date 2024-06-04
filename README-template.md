@@ -26,7 +26,7 @@ Essa é uma solução do [Pod request access landing page challenge on Frontend 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://marcoantoniomatos.github.io/projeto-podcast-request/](https://marcoantoniomatos.github.io/projeto-podcast-request/)
 
 ## Meu Processo
 
